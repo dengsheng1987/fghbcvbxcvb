@@ -1,0 +1,3 @@
+def detect_double_spending(transaction):
+    # Check for double spending in transactions
+    pass
